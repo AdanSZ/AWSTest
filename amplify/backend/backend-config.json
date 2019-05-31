@@ -1,0 +1,14 @@
+{
+	"auth": {
+		"cognito4bb26144": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"analytics": {
+		"awest": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
